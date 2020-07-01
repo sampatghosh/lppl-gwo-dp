@@ -1,1 +1,1 @@
-# Crash Detection using LPPL with GWO and DE optimization
+# Stock Price Crash Detection using LPPL with GWO and DE optimization
